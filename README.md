@@ -5,6 +5,7 @@ This repository contains HTML and CSS code for a login page. The login page is a
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#Demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -19,6 +20,9 @@ The login page provided in this repository offers the following features:
 - A clean and intuitive user interface for login functionality.
 - Input fields for username/email and password.
 - Responsive design that adapts to different screen sizes.
+
+## Demo
+https://getinform.netlify.app/
 
 ## Getting Started
 
