@@ -13,15 +13,15 @@ body {
   background: url(vegies4.jpg) no-repeat center fixed;
   background-size: cover;
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   color: #63164c;
 }
 
 form {
   display:block;
   position:relative;
-  width:600px;
-  height: 450px;
+  width:650px;
+  height: 550px;
   background:#395144;
   margin: 50px auto;
   padding:50px;
@@ -42,7 +42,7 @@ form {
   background-color: transparent;
   border: none;
   border-bottom: 2px solid #F0EBCE;
-  font-size: 18px;
+  font-size: 20px;
   font-family: sans-serif;
   padding: 10px 3px;
   width: 100%;
@@ -62,7 +62,7 @@ form {
 
 
 h2 {
-  font-size: 45px;
+  font-size: 50px;
 }
 
 button {
