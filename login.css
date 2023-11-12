@@ -14,21 +14,21 @@ body {
   background-size: cover;
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
-  color: #F0EBCE;
+  color: #63164c;
 }
 
 form {
   display:block;
   position:relative;
-  width:500px;
-  height: 400px;
+  width:600px;
+  height: 450px;
   background:#395144;
   margin: 50px auto;
   padding:50px;
   background: rgba( 255, 255, 255, 0.45 );
   box-shadow: 0 8px 32px 0 #F0EBCE;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   border-radius: 10px;
   border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
@@ -49,7 +49,7 @@ form {
 }
 
 .input label {
-  color: #F0EBCE;
+  color: #63164c;
   display: block;
   position: absolute;
   top: -20px;
@@ -62,11 +62,11 @@ form {
 
 
 h2 {
-  font-size: 40px;
+  font-size: 45px;
 }
 
 button {
-  border: 2px solid #F0EBCE;
+  border: 2px solid #63164c;
   background-color: transparent;
   cursor: pointer;
   float: right;
@@ -79,6 +79,6 @@ button {
 
 button:hover {
   border: none;
-  background-color: #395144;
-  Color: #F0EBCE;
+  background-color: #63164c;
+  Color: #fffff;
 }
