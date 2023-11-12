@@ -14,7 +14,7 @@ body {
   background-size: cover;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  color: #fffff;
+  color: #ffff;
 }
 
 form {
@@ -63,11 +63,6 @@ form {
 
 h2 {
   font-size: 60px;
-}
-
-p {
-color: #fffff;
-
 }
 
 button {
